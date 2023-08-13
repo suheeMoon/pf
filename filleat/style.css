@@ -1,0 +1,200 @@
+
+body{
+  background-color: #DEE2E5 !important;
+}
+
+.ux-ui,
+.ux-ui * {
+  box-sizing: border-box;
+}
+.ux-ui {
+  background-image: url(./제출/Frame\ 79.png);
+  background-size: contain;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.frame-747 {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 1060px;
+  position: relative;
+}
+.view-more {
+  padding: 60px 1px 60px 1px;
+  display: flex;
+  flex-direction: column;
+  gap: 17px;
+  align-items: center;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  position: relative;
+  overflow: visible;
+  z-index: 10;
+}
+.frame-750 {
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-end;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 690px;
+  position: relative;
+}
+.frame-749 {
+  background: #f7f8f9;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex: 1;
+  position: relative;
+}
+.frame-751 {
+  padding: 0px 179px 0px 179px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.frame-752 {
+  display: flex;
+  flex-direction: column;
+  gap: 94px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.fill-eat {
+  color: var(--dark-800, #111111);
+  text-align: left;
+  font: 700 72px "Pretendard", sans-serif;
+  position: relative;
+  width: 578px;
+}
+.frame-753 {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+}
+.ai {
+  color: var(--dark-500, #323232);
+  text-align: left;
+  font: 700 22px "Pretendard", sans-serif;
+  position: relative;
+}
+.filleat-filleat {
+  color: var(--dark-300, #5f5e5e);
+  text-align: left;
+  font: 400 17px/171% "Pretendard", sans-serif;
+  position: relative;
+  width: 901px;
+}
+.frame-748 {
+  background: #ffffff;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  width: 660px;
+  position: relative;
+  background-image: url(./제출/Group\ 876.png);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position-x: 50%;
+  background-position-y: 50%;
+}
+.frame-7512 {
+  background: #191a1b;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1920px;
+  height: 690px;
+  position: relative;
+}
+.work-detail {
+  color: var(--white-100, #ffffff);
+  text-align: center;
+  font: 700 20px "Pretendard", sans-serif;
+  position: relative;
+}
+.fill-eat2 {
+  color: var(--white-100, #ffffff);
+  text-align: center;
+  font: 700 108px "Pretendard", sans-serif;
+  position: relative;
+}
+
+.cstext{
+  color: #232323;
+  text-align: left;
+  font: 700 46px "Pretendard", sans-serif;
+  position: relative;
+  padding: 144px 0px 62px 0px;
+}
+
+.alone-image{
+  width: 1330px;
+  height: auto;
+  border-radius: 24px;
+  margin: 0 0 144px 0;
+}
+
+.cs {
+margin: 0px 295px 0px 295px;
+}
+
+.next_c, .previous_c{
+  color:#111111;
+  font-size: 52px;
+}
+
+.d-block {
+  border-radius: 24px;
+}
+
+#carouse5, #carouse6{
+  margin: 0 0 144px 0;
+}
+
+.line-3-stroke-parent {
+  background-color: #2D2F32;
+  color: white;
+  padding: 40px 0 !important;
+  margin: 144px 0 0 0 !important;
+  justify-content: center;
+  gap: 34px;
+  height: 132px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-pretendard);
+  text-align: center;
+  width: 100%;
+}
